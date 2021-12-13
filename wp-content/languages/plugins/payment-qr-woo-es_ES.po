@@ -1,0 +1,174 @@
+# Translation of Plugins - Payment QR WooCommerce - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Payment QR WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-09 04:57:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Payment QR WooCommerce - Development (trunk)\n"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/payment-qr-woo/"
+msgstr "https://es.wordpress.org/plugins/payment-qr-woo/"
+
+#: functions.php:30
+msgid "Agregar contacto:"
+msgstr "Añadir contacto:"
+
+#: payment-qr-woo.php:180
+msgid "Subir logo aplicacion"
+msgstr "Subir el logotipo de la aplicación"
+
+#: payment-qr-woo.php:97
+msgid "Aqui debe subir la imagen icon."
+msgstr "Aquí debes subir la imagen de icono."
+
+#: payment-qr-woo.php:93
+msgid "Seleccionar imagen icon"
+msgstr "Seleccionar la imagen del icono"
+
+#: payment-qr-woo.php:135
+msgid "Este numero debe ser el que tiene afiliado con la aplicacion que esta configurando."
+msgstr "Este número debe ser el que tienes afiliado con la aplicación que estás configurando."
+
+#: payment-qr-woo.php:80
+msgid "Habilitar Payment QR WooCommerce"
+msgstr "Activar Payment QR WooCommerce"
+
+#. Description of the plugin
+msgid "Add-on for WooCommerce, a payment method to make payments using QR code."
+msgstr "Extensión para WooCommerce, un método de pago para hacer los pagos usando un código QR."
+
+#: payment-qr-woo.php:297
+msgid "Awaiting offline payment"
+msgstr "Esperando el pago offline"
+
+#: payment-qr-woo.php:199 payment-qr-woo.php:253
+msgid "Eliminar"
+msgstr "Eliminar"
+
+#: payment-qr-woo.php:188 payment-qr-woo.php:192 payment-qr-woo.php:242
+#: payment-qr-woo.php:246
+msgid "Vista Previa"
+msgstr "Vista previa"
+
+#: payment-qr-woo.php:234
+msgid "Sube el QR aquí"
+msgstr "Sube aquí el QR"
+
+#: payment-qr-woo.php:144
+msgid "Aqui debe subir la imagen QR."
+msgstr "Aquí debes subir la imagen QR."
+
+#: payment-qr-woo.php:140
+msgid "Seleccionar imagen  QR"
+msgstr "Seleccionar la imagen QR"
+
+#: payment-qr-woo.php:136
+msgid "991664127"
+msgstr "991664127"
+
+#: payment-qr-woo.php:133
+msgid "Numero Celular Afiliado"
+msgstr "Número de móvil afiliado"
+
+#: payment-qr-woo.php:129
+msgid "Este metodo no permite hacer pagos mayores a 500 por dia"
+msgstr "Este método no permite hacer pagos mayores a 500 por día"
+
+#: payment-qr-woo.php:128
+msgid "Agregar el mensaje para informar sobre el limite del monto a pagar."
+msgstr "Añade el mensaje para informar sobre el límite del importe a pagar."
+
+#: payment-qr-woo.php:126
+msgid "Mensaje Monto Limite"
+msgstr "Mensaje del importe límite"
+
+#: payment-qr-woo.php:121
+msgid "En este campo puedes poner el monto limte de pago"
+msgstr "En este campo puedes poner el importe límite de pago"
+
+#: payment-qr-woo.php:119
+msgid "Monto Limite"
+msgstr "Importe límite"
+
+#: payment-qr-woo.php:115
+msgid "Debe escanear el código QR, haga click en continuar para adjuntar la captura de pantalla (es el único comprobante de pago) y podrá completar la compra."
+msgstr "Debes escanear el código QR, haz clic en «Continuar» para adjuntar la captura de pantalla (es el único comprobante de pago) y podrás completar la compra."
+
+#: payment-qr-woo.php:113
+msgid "Popup description"
+msgstr "Mensaje emergente de la descripción"
+
+#: payment-qr-woo.php:109
+msgid "Metodo de pago mediante QR, cuando se realice el pago se debe adjuntar el comprobante con la orden de pedido."
+msgstr "Método de pago mediante QR, cuando se realice el pago se debe adjuntar el comprobante con el justificante de pedido."
+
+#: payment-qr-woo.php:108
+msgid "Esto controla la descripción que el usuario ve durante el pago."
+msgstr "Esto controla la descripción que el usuario ve durante el pago."
+
+#: payment-qr-woo.php:106
+msgid "Descripcion"
+msgstr "Descripción"
+
+#: payment-qr-woo.php:88
+msgid "Esto controla el título que el usuario ve durante el pago."
+msgstr "Esto controla el título que el usuario ve durante el pago."
+
+#: payment-qr-woo.php:86
+msgid "Titulo"
+msgstr "Título"
+
+#: payment-qr-woo.php:79
+msgid "Habilitar/Deshabilitar"
+msgstr "Activar/Desactivar"
+
+#: payment-qr-woo.php:51
+msgid "Metodo de pago mediante QR."
+msgstr "Método de pago mediante QR."
+
+#: functions.php:135
+msgid "QR Code Payment Receipt"
+msgstr "Código QR del recibo de pago"
+
+#: functions.php:53
+msgid "Finalizar compra"
+msgstr "Finalizar la compra"
+
+#: functions.php:51
+msgid "Por favor cargue su comprobante"
+msgstr "Por favor, sube tu comprobante"
+
+#: functions.php:47
+msgid "Seleccionar archivo"
+msgstr "Seleccionar el archivo"
+
+#: functions.php:46
+msgid "o"
+msgstr "o"
+
+#: functions.php:46
+msgid "Soltar archivo para cargar"
+msgstr "Soltar el archivo para subir"
+
+#: functions.php:32
+msgid "Monto a pagar"
+msgstr "Importe a pagar"
+
+#. Author URI of the plugin
+msgid "https://kodewp.com/"
+msgstr "https://kodewp.com/"
+
+#. Author of the plugin
+msgid "Miguel Fuentes"
+msgstr "Miguel Fuentes"
+
+#. Plugin Name of the plugin
+#: payment-qr-woo.php:50 payment-qr-woo.php:89
+msgid "Payment QR WooCommerce"
+msgstr "Payment QR WooCommerce"
